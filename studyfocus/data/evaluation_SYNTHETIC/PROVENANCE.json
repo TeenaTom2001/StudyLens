@@ -1,0 +1,18 @@
+{
+  "dataset_name": "StudyFocus evaluation workflow v2",
+  "seed": 20261101,
+  "origin": "fully synthetic; not calibrated to real population",
+  "participants": 25,
+  "sessions": 695,
+  "questionnaire_item_rows": 3085,
+  "reflections": 24,
+  "TMBS_scoring": "blocked: exact authorised form and reverse key pending",
+  "UWES_scope": "student short-form item IDs from Dutch appendix; approve appropriate language before real collection",
+  "simulated_missingness": "SYN024 no end questionnaires/reflection; SYN025 SUS item 10 missing",
+  "known_limits": [
+    "not research findings",
+    "not a validated psychometric simulation",
+    "no causal evidence",
+    "no actual interviews conducted"
+  ]
+}
